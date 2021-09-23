@@ -1,1 +1,0 @@
-<header>Supply Registration System</header>
